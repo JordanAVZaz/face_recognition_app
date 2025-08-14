@@ -1,0 +1,17 @@
+name: face-id-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - opencv
+  - gradio
+  - tensorflow
+  - dlib
+  - cmake
+  - pip:
+      - face_recognition
