@@ -1,6 +1,4 @@
 # face_recognition_app
-Training models to recognise faces using embedding space using cosine and euclidean distance.
+Training an AI model to recognise faces with an embedding space using cosine and euclidean distance.
 
-Models are trained in a siamese network using triplet loss.
-
-Checkout the jupiter notebooks for more info.
+Mutliple models are trained in within a siamese network using triplet loss, checkout the jupiter notebooks for more info.
